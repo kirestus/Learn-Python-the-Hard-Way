@@ -1,0 +1,20 @@
+true 7
+false 7
+false 7
+true 7
+true 7
+true 7
+false 7
+true 7
+false 7
+false 7
+true 7
+false 7
+true 7
+false 7
+false 7
+false X
+true 7
+true7
+false 7
+false x
